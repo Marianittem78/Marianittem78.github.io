@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.marianittem78.colecta",
+        "sha256_cert_fingerprints": ["6E:C9:7A:CB:07:05:2E:C9:5B:1D:1F:8E:3A:26:BA:DA:2B:74:A1:01:04:E2:46:2F:9B:75:4D:D7:E7:83:5A:9A"]
+      }
+    }]
